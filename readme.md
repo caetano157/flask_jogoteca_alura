@@ -17,7 +17,7 @@ Interface Responsiva (Compatível com dispositivos móveis)
 
 Como Rodar o Projeto
 Clone este repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/caetano157/flask_jogoteca_alura)
 cd seu-repositorio
 
 Crie e ative um ambiente virtual:
